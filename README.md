@@ -23,6 +23,12 @@ HerCode LLC designed an end-to-end workflow that takes a field submission and au
 5. Key information is recorded in a management log.
 6. The completed report is automatically delivered by email.
 
+## Workflow Preview
+
+Below is the working HerCode LLC automation connecting field submissions, AI-powered analysis, management logging, and automated email reporting.
+
+![HerCode Construction Daily Report Automation](construction-daily-report-workflow.png)
+
 ## Report Analysis
 
 The workflow can organize submitted field information into sections such as:
